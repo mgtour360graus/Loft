@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" apprev="20995" appversion="7.1.9" start="node1">
+  <panorama id="node1">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-128.737" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.421888,-51.9382933,3a,75y,231.26h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgLZU4ADtCB!2e10" customnodeid="" info="" source="" latitude="-23.42188799" heading="-128.737" description="" author="MGTOUR360GRAUS" nodeid="node1" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93829325"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="24.6311" description="" pan="-38.4188" skinid="ht_node" url="{node2}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="16.2093" description="" pan="39.5724" skinid="ht_node" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-177.762" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4218892,-51.9385347,3a,75y,182.24h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgTQFnTWgLZVAAAi_g!2e10" customnodeid="" info="" source="" latitude="-23.42188922" heading="-177.762" description="" author="MGTOUR360GRAUS" nodeid="node2" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93853465"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="24.6311" description="" pan="-267.444" skinid="ht_node" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="3535" height="3535" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="3535" height="3535" preload="0" predecode="0"/>
+      <level width="1767" height="1767" preload="0" predecode="0"/>
+      <level width="883" height="883" preload="0" predecode="0"/>
+      <level width="441" height="441" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-88.7366" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4220307,-51.9383254,3a,75y,271.26h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgTQFnTWgKjf4AC01F!2e10" customnodeid="" info="" source="" latitude="-23.42203074" heading="-88.7366" description="" author="" nodeid="node3" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93832544"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="16.2093" description="" pan="-100.427" skinid="ht_node" url="{node1}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="9.3064" description="" pan="0.414505" skinid="ht_node" url="{node4}"/>
+      <hotspot target="$fwd" id="Point03" tilt="0" title="LOFT" distance="15.3651" description="" pan="87.1774" skinid="ht_node" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-88.0085" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4220295,-51.9384166,3a,75y,271.99h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgTQFnTWgKjeAACU2s!2e10" customnodeid="" info="" source="" latitude="-23.42202950" heading="-88.0085" description="" author="MGTOUR360GRAUS" nodeid="node4" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93841664"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="9.3064" description="" pan="-178.857" skinid="ht_node" url="{node3}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="5.33631" description="" pan="2.00345" skinid="ht_node" url="{node5}"/>
+      <hotspot target="$fwd" id="Point03" tilt="0" title="LOFT" distance="10.6734" description="" pan="-88.7425" skinid="ht_node" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-89.3176" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4220295,-51.9384689,3a,75y,270.68h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgTQFnTWgKjfwAARRV!2e10" customnodeid="" info="" source="" latitude="-23.42202951" heading="-89.3176" description="" author="MGTOUR360GRAUS" nodeid="node5" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93846894"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="5.33631" description="" pan="-179.306" skinid="ht_node" url="{node4}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="6.84231" description="" pan="0.682413" skinid="ht_node" url="{node6}"/>
+      <hotspot target="$fwd" id="Point03" tilt="0" title="LOFT" distance="7.22116" description="" pan="63.6372" skinid="ht_node" url="{node20}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90.3574" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4220295,-51.938536,3a,75y,269.64h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgTQFnTWgKjiUADgae!2e10" customnodeid="" info="" source="" latitude="-23.42202951" heading="-90.3574" description="" author="MGTOUR360GRAUS" nodeid="node6" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93853600"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="6.84231" description="" pan="-180.357" skinid="ht_node" url="{node5}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="6.84676" description="" pan="1.93229" skinid="ht_node" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-89.2958" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.422032,-51.938603,3a,75y,270.7h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWYAGlLGgKjiYADSQh!2e10" customnodeid="" info="" source="" latitude="-23.42203197" heading="-89.2958" description="" author="MGTOUR360GRAUS" nodeid="node7" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93860305"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="6.84676" description="" pan="-177.006" skinid="ht_node" url="{node6}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="5.47651" description="" pan="-76.3002" skinid="ht_node" url="{node8}"/>
+      <hotspot target="$fwd" id="Point03" tilt="0" title="LOFT" distance="6.77034" description="" pan="76.671" skinid="ht_node" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-11.1777" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.421984,-51.9386151,3a,75y,348.82h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgKjicAC7_F!2e10" customnodeid="" info="" source="" latitude="-23.42198398" heading="-11.1777" description="" author="MGTOUR360GRAUS" nodeid="node8" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93861512"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="5.47651" description="" pan="-178.182" skinid="ht_node" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="94.1973" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.422091,-51.9386191,3a,75y,94.2h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgKjl8ACBzh!2e10" customnodeid="" info="" source="" latitude="-23.42209104" heading="94.1973" description="" author="MGTOUR360GRAUS" nodeid="node9" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93861914"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="6.77034" description="" pan="80.1641" skinid="ht_node" url="{node7}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="6.29625" description="" pan="272.944" skinid="ht_node" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90.8348" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4221476,-51.9386205,3a,75y,90.83h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgKjl8ACqNp!2e10" customnodeid="" info="" source="" latitude="-23.42214765" heading="90.8348" description="" author="MGTOUR360GRAUS" nodeid="node10" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93862049"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="6.29625" description="" pan="89.5812" skinid="ht_node" url="{node9}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="9.18495" description="" pan="-2.57992" skinid="ht_node" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90.7516" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4221526,-51.9385306,3a,75y,90.75h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgKjmEAAbU_!2e10" customnodeid="" info="" source="" latitude="-23.42215257" heading="90.7516" description="" author="MGTOUR360GRAUS" nodeid="node11" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93853063"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="9.18495" description="" pan="177.337" skinid="ht_node" url="{node10}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="10.0226" description="" pan="-3.94485" skinid="ht_node" url="{node14}"/>
+      <hotspot target="$fwd" id="Point03" tilt="0" title="LOFT" distance="7.85235" description="" pan="68.2041" skinid="ht_node" url="{node20}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-91.7538" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.421936,-51.9385803,3a,75y,268.25h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgKjp0AAgZ4!2e10" customnodeid="" info="" source="" latitude="-23.42193598" heading="-91.7538" description="" author="MGTOUR360GRAUS" nodeid="node12" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93858026"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="8.21986" description="" pan="1.11519" skinid="ht_node" url="{node13}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="6.71117" description="" pan="-179.418" skinid="ht_node" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="88.7025" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4219397,-51.9386607,3a,75y,88.7h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgTQFnTWgKjpoAC58t!2e10" customnodeid="" info="" source="" latitude="-23.42193968" heading="88.7025" description="" author="MGTOUR360GRAUS" nodeid="node13" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="esta" longitude="-51.93866072"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="8.21986" description="" pan="1.57146" skinid="ht_node" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="92.4893" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.42216,-51.9384327,3a,75y,92.49h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWYAGlLGgKjsAADVcj!2e10" customnodeid="" info="" source="" latitude="-23.42215995" heading="92.4893" description="" author="MGTOUR360GRAUS" nodeid="node14" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93843273"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="10.0226" description="" pan="177.793" skinid="ht_node" url="{node11}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="4.65473" description="" pan="0.791835" skinid="ht_node" url="{node16}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="94.9848" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4221686,-51.9383362,3a,75y,94.98h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgKjt0ACYUi!2e10" customnodeid="" info="" source="" latitude="-23.42216857" heading="94.9848" description="" author="MGTOUR360GRAUS" nodeid="node15" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93833617"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="5.26394" description="" pan="176.016" skinid="ht_node" url="{node16}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="15.3651" description="" pan="90.8988" skinid="ht_node" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="270.622" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4221612,-51.9383871,3a,75y,270.62h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgKjt4AC_Yo!2e10" customnodeid="" info="" source="" latitude="-23.42216119" heading="270.622" description="" author="MGTOUR360GRAUS" nodeid="node16" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93838713"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="5.26394" description="" pan="171.653" skinid="ht_node" url="{node15}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="4.65473" description="" pan="358.925" skinid="ht_node" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-89.6614" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4219335,-51.9384153,3a,75y,270.34h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgKjwQAAshv!2e10" customnodeid="" info="" source="" latitude="-23.42193352" heading="-89.6614" description="" author="MGTOUR360GRAUS" nodeid="node17" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93841530"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="10.6734" description="" pan="89.6046" skinid="ht_node" url="{node4}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="6.43112" description="" pan="0.348519" skinid="ht_node" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-85.9393" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4219335,-51.9384783,3a,75y,274.06h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgKjxgACU0K!2e10" customnodeid="" info="" source="" latitude="-23.42193353" heading="-85.9393" description="" author="MGTOUR360GRAUS" nodeid="node18" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93847833"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="6.43112" description="" pan="-175.929" skinid="ht_node" url="{node17}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="3.69461" description="" pan="4.04346" skinid="ht_node" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90.0382" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4219335,-51.9385145,3a,75y,269.96h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWYAGlLGgKjxgADBU5!2e10" customnodeid="" info="" source="" latitude="-23.42193352" heading="-90.0382" description="" author="MGTOUR360GRAUS" nodeid="node19" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93851454"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="3.69461" description="" pan="-180.055" skinid="ht_node" url="{node18}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="6.71117" description="" pan="2.29777" skinid="ht_node" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input width="2759" height="2759" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" overlap="1">
+      <level width="2759" height="2759" preload="0" predecode="0"/>
+      <level width="1379" height="1379" preload="0" predecode="0"/>
+      <level width="689" height="689" preload="0" predecode="0"/>
+      <level width="344" height="344" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90.7362" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata title="LOFT" datetime="" streetviewlink="https://www.google.com/maps/@-23.4220874,-51.9385011,3a,75y,269.26h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKz4iNVhWgKjxoAAGz4!2e10" customnodeid="" info="" source="" latitude="-23.42208735" heading="-90.7362" description="" author="MGTOUR360GRAUS" nodeid="node20" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" tags="3-Panoramicas" longitude="-51.93850112"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label enabled="1" width="180" height="20" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" wordwrap="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot target="$fwd" id="Point01" tilt="0" title="LOFT" distance="7.85235" description="" pan="66.7163" skinid="ht_node" url="{node11}"/>
+      <hotspot target="$fwd" id="Point02" tilt="0" title="LOFT" distance="7.22116" description="" pan="-117.781" skinid="ht_node" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomout="0" zoomspeed="2" zoomin="0" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomoutpause="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextvr="1" lockedkeyboard="0" lockedwheel="0" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedmouse="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" copyright="" comment="" tags="" description="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
